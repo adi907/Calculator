@@ -46,8 +46,6 @@ body{
     cursor:pointer;
 }
 
-/* Add Calculator logo : Casio at the top */
-
 @media only screen and (max-height:345px){
 
     .container{
